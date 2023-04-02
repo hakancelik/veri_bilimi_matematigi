@@ -1,1 +1,1 @@
-# veri_bilimi_matematigi
+Veri Bilimi Matematiği ile alakalı yazı oluşturmak için açılmış bir repository
